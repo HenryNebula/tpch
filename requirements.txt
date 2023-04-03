@@ -7,6 +7,6 @@ pyarrow
 dask
 modin[ray]
 plotly
-vaex
-pyspark
+# vaex
+# pyspark
 
